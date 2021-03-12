@@ -3,6 +3,7 @@
 
 title: Learning to Forecast Videos of Human Activity with Multi-granularity Models
   and Adaptive Rendering
+url_pdf: https://arxiv.org/pdf/1712.01955.pdf
 subtitle: ''
 summary: 'Accepted to BMVC 2018'
 authors:
