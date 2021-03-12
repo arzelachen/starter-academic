@@ -6,8 +6,8 @@ url_pdf: https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhai_Lifelong_GA
 subtitle: ''
 summary: 'Accepted to ICCV 2019'
 authors:
-- Mengyao Zhai$^*$
-- Lei Chen$^*$
+- Mengyao Zhai
+- Lei Chen(co-first author)
 - Frederick Tung
 - Jiawei He
 - Megha Nawhal
