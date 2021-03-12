@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'Piggyback GAN: Efficient Lifelong Learning for Image Conditioned Generation'
-url_pdf: https://arxiv.org/pdf/1907.10107.pdf
+url_pdf: https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660392.pdf
 subtitle: ''
 summary: 'Accepted to ECCV 2020'
 authors:
