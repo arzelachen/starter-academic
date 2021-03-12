@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Deep Structured Models For Group Activity Recognition
-pdf_url: https://arxiv.org/pdf/1506.04191.pdf
+url_pdf: https://arxiv.org/pdf/1506.04191.pdf
 subtitle: ''
 summary: 'Accepted to BMVC 2015'
 authors:
