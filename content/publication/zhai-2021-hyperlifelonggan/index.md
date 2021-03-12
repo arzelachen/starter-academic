@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Hyper-LifelongGAN: Scalable Lifelong Learning for Image Conditioned Generation'
+title: 'Hyper-Lifelong GAN: Scalable Lifelong Learning for Image Conditioned Generation'
 subtitle: ''
 summary: 'Accepted to CVPR 2021'
 authors:

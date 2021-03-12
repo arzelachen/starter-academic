@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Object detection in surveillance video from dense trajectories
+title: Object Detection in Surveillance Video from Dense Trajectories
 subtitle: ''
 summary: ''
 authors:

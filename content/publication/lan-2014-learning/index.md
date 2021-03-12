@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Learning action primitives for multi-level video event understanding
+title: Learning Action Primitives for Multi-level Video Event Understanding
 subtitle: ''
 summary: 'Accepted to ECCV 2014 Workshop'
 authors:
