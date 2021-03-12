@@ -2,8 +2,9 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Adapting Grad-CAM for Embedding Networks
+url_pdf: https://arxiv.org/pdf/2001.06538.pdf
 subtitle: ''
-summary: ''
+summary: 'Accepted to WACV 2020'
 authors:
 - Lei Chen
 - Jianhui Chen

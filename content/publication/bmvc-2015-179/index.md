@@ -3,11 +3,11 @@
 
 title: Deep Structured Models For Group Activity Recognition
 subtitle: ''
-summary: ''
+summary: 'Accepted to BMVC 2015'
 authors:
 - Zhiwei Deng
 - Mengyao Zhai
-- \textbfLei Chen
+- Lei Chen
 - Yuhao Liu
 - Srikanth Muralidharan
 - Mehrsan Javan Roshtkhari

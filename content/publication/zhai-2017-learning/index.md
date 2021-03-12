@@ -4,7 +4,7 @@
 title: Learning to Forecast Videos of Human Activity with Multi-granularity Models
   and Adaptive Rendering
 subtitle: ''
-summary: ''
+summary: 'Accepted to BMVC 2018'
 authors:
 - Mengyao Zhai
 - Jiacheng Chen

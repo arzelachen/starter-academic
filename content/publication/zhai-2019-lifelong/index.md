@@ -2,8 +2,9 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'Lifelong gan: Continual learning for conditional image generation'
+url_pdf: https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhai_Lifelong_GAN_Continual_Learning_for_Conditional_Image_Generation_ICCV_2019_paper.pdf
 subtitle: ''
-summary: ''
+summary: 'Accepted to ICCV 2019'
 authors:
 - Mengyao Zhai$^*$
 - Lei Chen$^*$

@@ -2,8 +2,9 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'Piggyback GAN: Efficient Lifelong Learning for Image Conditioned Generation'
+url_pdf: https://arxiv.org/pdf/1907.10107.pdf
 subtitle: ''
-summary: ''
+summary: 'Accepted to ECCV 2020'
 authors:
 - Mengyao Zhai
 - Lei Chen

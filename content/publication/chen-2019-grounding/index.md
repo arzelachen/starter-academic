@@ -2,8 +2,9 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Object Grounding via Iterative Context Reasoning
+url_pdf: https://openaccess.thecvf.com/content_ICCVW_2019/papers/MDALC/Chen_Object_Grounding_via_Iterative_Context_Reasoning_ICCVW_2019_paper.pdf
 subtitle: ''
-summary: ''
+summary: 'Accepted to ICCV 2019 Workshop'
 authors:
 - Lei Chen
 - Mengyao Zhai

@@ -3,7 +3,7 @@
 
 title: Learning action primitives for multi-level video event understanding
 subtitle: ''
-summary: ''
+summary: 'Accepted to ECCV 2014 Workshop'
 authors:
 - Tian Lan
 - Lei Chen

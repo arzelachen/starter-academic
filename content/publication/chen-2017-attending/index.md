@@ -4,7 +4,7 @@
 title: 'Attending to Distinctive Moments: Weakly-supervised Attention Models for Action
   Localization in Video'
 subtitle: ''
-summary: ''
+summary: 'Accepted to ICCV 2017 Workshop'
 authors:
 - Lei Chen
 - Mengyao Zhai

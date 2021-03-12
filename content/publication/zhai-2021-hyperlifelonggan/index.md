@@ -3,7 +3,7 @@
 
 title: 'Hyper-LifelongGAN: Scalable Lifelong Learning for Image Conditioned Generation'
 subtitle: ''
-summary: ''
+summary: 'Accepted to CVPR 2021'
 authors:
 - Mengyao Zhai
 - Lei Chen
