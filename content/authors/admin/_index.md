@@ -73,4 +73,4 @@ highlight_name: false
 
 I'm a PhD student from vision and media lab at Simon Fraser University under supervision of Dr. Greg Mori. My research interests include weakly-supervised learning and visual grounding as well as deep generative models.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
